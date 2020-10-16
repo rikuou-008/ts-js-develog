@@ -1,0 +1,20 @@
+{
+  "name": "ts-js-develog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikuou-008/ts-js-develog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikuou-008/ts-js-develog/issues"
+  },
+  "homepage": "https://github.com/rikuou-008/ts-js-develog#readme"
+}
